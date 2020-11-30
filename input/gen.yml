@@ -1,0 +1,6 @@
+generatorbeat:
+  generators:
+    filebeat:
+      worker: 1
+      repeat: 1
+      sample_file: input/files/gen.log.bz2

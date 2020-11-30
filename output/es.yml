@@ -1,0 +1,7 @@
+output.elasticsearch:
+  hosts: ["localhost:9200"]
+  bulk_max_size: 2048
+  template.enabled: false
+  #compression_level: 3
+
+setup.template.enabled: false

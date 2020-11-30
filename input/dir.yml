@@ -1,0 +1,4 @@
+filebeat.inputs:
+- type: log
+  paths:
+    - input/files/nasa.log

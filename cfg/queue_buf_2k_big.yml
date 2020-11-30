@@ -1,0 +1,4 @@
+queue.mem:
+  events: 8192
+  flush.min_events: 2048
+  flush.timeout: 5s

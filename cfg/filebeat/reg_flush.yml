@@ -1,0 +1,1 @@
+filebeat.registry.flush: 2s

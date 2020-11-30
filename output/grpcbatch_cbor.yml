@@ -1,0 +1,6 @@
+output.grpcbatch:
+  hosts:
+    - localhost:9292
+  codec: cbor
+  #compression: 3
+

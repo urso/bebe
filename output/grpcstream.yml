@@ -1,0 +1,3 @@
+output.grpcstream:
+  hosts:
+    - localhost:9292
